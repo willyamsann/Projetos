@@ -195,3 +195,12 @@ footer p{
     }
 }
 
+.prev {
+    position : relative;
+    float: left;
+  }
+  
+  .next {
+    position : relative;
+    float: right;
+  }
